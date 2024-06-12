@@ -5,7 +5,7 @@
     "p_cost": 9.99,
     "p_cat": "beauty",
     "p_desc": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_1.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_1.jpg"
   },
   {
     "p_id": 2,
@@ -13,7 +13,7 @@
     "p_cost": 19.99,
     "p_cat": "beauty",
     "p_desc": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_2.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_2.jpg"
   },
   {
     "p_id": 3,
@@ -21,7 +21,7 @@
     "p_cost": 14.99,
     "p_cat": "beauty",
     "p_desc": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_3.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_3.jpg"
   },
   {
     "p_id": 4,
@@ -29,7 +29,7 @@
     "p_cost": 12.99,
     "p_cat": "beauty",
     "p_desc": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_4.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_4.jpg"
   },
   {
     "p_id": 5,
@@ -37,7 +37,7 @@
     "p_cost": 8.99,
     "p_cat": "beauty",
     "p_desc": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_5.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_5.jpg"
   },
   {
     "p_id": 6,
@@ -45,7 +45,7 @@
     "p_cost": 49.99,
     "p_cat": "fragrances",
     "p_desc": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_6.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_6.jpg"
   },
   {
     "p_id": 7,
@@ -53,7 +53,7 @@
     "p_cost": 129.99,
     "p_cat": "fragrances",
     "p_desc": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_7.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_7.jpg"
   },
   {
     "p_id": 8,
@@ -61,7 +61,7 @@
     "p_cost": 89.99,
     "p_cat": "fragrances",
     "p_desc": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_8.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_8.jpg"
   },
   {
     "p_id": 9,
@@ -69,7 +69,7 @@
     "p_cost": 69.99,
     "p_cat": "fragrances",
     "p_desc": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_9.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_9.jpg"
   },
   {
     "p_id": 10,
@@ -77,7 +77,7 @@
     "p_cost": 79.99,
     "p_cat": "fragrances",
     "p_desc": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_10.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_10.jpg"
   },
   {
     "p_id": 11,
@@ -85,7 +85,7 @@
     "p_cost": 1899.99,
     "p_cat": "furniture",
     "p_desc": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_11.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_11.jpg"
   },
   {
     "p_id": 12,
@@ -93,7 +93,7 @@
     "p_cost": 2499.99,
     "p_cat": "furniture",
     "p_desc": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_12.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_12.jpg"
   },
   {
     "p_id": 13,
@@ -101,7 +101,7 @@
     "p_cost": 299.99,
     "p_cat": "furniture",
     "p_desc": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_13.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_13.jpg"
   },
   {
     "p_id": 14,
@@ -109,7 +109,7 @@
     "p_cost": 499.99,
     "p_cat": "furniture",
     "p_desc": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_14.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_14.jpg"
   },
   {
     "p_id": 15,
@@ -117,7 +117,7 @@
     "p_cost": 799.99,
     "p_cat": "furniture",
     "p_desc": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_15.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_15.jpg"
   },
   {
     "p_id": 16,
@@ -125,7 +125,7 @@
     "p_cost": 1.99,
     "p_cat": "groceries",
     "p_desc": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_16.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_16.jpg"
   },
   {
     "p_id": 17,
@@ -133,7 +133,7 @@
     "p_cost": 12.99,
     "p_cat": "groceries",
     "p_desc": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_17.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_17.jpg"
   },
   {
     "p_id": 18,
@@ -141,7 +141,7 @@
     "p_cost": 8.99,
     "p_cat": "groceries",
     "p_desc": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_18.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_18.jpg"
   },
   {
     "p_id": 19,
@@ -149,7 +149,7 @@
     "p_cost": 9.99,
     "p_cat": "groceries",
     "p_desc": "Fresh and tender chicken meat, suitable for various culinary preparations.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_19.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_19.jpg"
   },
   {
     "p_id": 20,
@@ -157,7 +157,7 @@
     "p_cost": 4.99,
     "p_cat": "groceries",
     "p_desc": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_20.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_20.jpg"
   },
   {
     "p_id": 21,
@@ -165,7 +165,7 @@
     "p_cost": 1.49,
     "p_cat": "groceries",
     "p_desc": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_21.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_21.jpg"
   },
   {
     "p_id": 22,
@@ -173,7 +173,7 @@
     "p_cost": 10.99,
     "p_cat": "groceries",
     "p_desc": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_22.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_22.jpg"
   },
   {
     "p_id": 23,
@@ -181,7 +181,7 @@
     "p_cost": 2.99,
     "p_cat": "groceries",
     "p_desc": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_23.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_23.jpg"
   },
   {
     "p_id": 24,
@@ -189,7 +189,7 @@
     "p_cost": 14.99,
     "p_cat": "groceries",
     "p_desc": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_24.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_24.jpg"
   },
   {
     "p_id": 25,
@@ -197,7 +197,7 @@
     "p_cost": 1.29,
     "p_cat": "groceries",
     "p_desc": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_25.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_25.jpg"
   },
   {
     "p_id": 26,
@@ -205,7 +205,7 @@
     "p_cost": 0.99,
     "p_cat": "groceries",
     "p_desc": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_26.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_26.jpg"
   },
   {
     "p_id": 27,
@@ -213,7 +213,7 @@
     "p_cost": 6.99,
     "p_cat": "groceries",
     "p_desc": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_27.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_27.jpg"
   },
   {
     "p_id": 28,
@@ -221,7 +221,7 @@
     "p_cost": 5.49,
     "p_cat": "groceries",
     "p_desc": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_28.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_28.jpg"
   },
   {
     "p_id": 29,
@@ -229,7 +229,7 @@
     "p_cost": 3.99,
     "p_cat": "groceries",
     "p_desc": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_29.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_29.jpg"
   },
   {
     "p_id": 30,
@@ -237,7 +237,7 @@
     "p_cost": 2.49,
     "p_cat": "groceries",
     "p_desc": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_30.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_30.jpg"
   },
   {
     "p_id": 31,
@@ -245,7 +245,7 @@
     "p_cost": 0.79,
     "p_cat": "groceries",
     "p_desc": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_31.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_31.jpg"
   },
   {
     "p_id": 32,
@@ -253,7 +253,7 @@
     "p_cost": 3.49,
     "p_cat": "groceries",
     "p_desc": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_32.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_32.jpg"
   },
   {
     "p_id": 33,
@@ -261,7 +261,7 @@
     "p_cost": 4.99,
     "p_cat": "groceries",
     "p_desc": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_33.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_33.jpg"
   },
   {
     "p_id": 34,
@@ -269,7 +269,7 @@
     "p_cost": 7.99,
     "p_cat": "groceries",
     "p_desc": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_34.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_34.jpg"
   },
   {
     "p_id": 35,
@@ -277,7 +277,7 @@
     "p_cost": 2.29,
     "p_cat": "groceries",
     "p_desc": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_35.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_35.jpg"
   },
   {
     "p_id": 36,
@@ -285,7 +285,7 @@
     "p_cost": 19.99,
     "p_cat": "groceries",
     "p_desc": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_36.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_36.jpg"
   },
   {
     "p_id": 37,
@@ -293,7 +293,7 @@
     "p_cost": 1.99,
     "p_cat": "groceries",
     "p_desc": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_37.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_37.jpg"
   },
   {
     "p_id": 38,
@@ -301,7 +301,7 @@
     "p_cost": 5.99,
     "p_cat": "groceries",
     "p_desc": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_38.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_38.jpg"
   },
   {
     "p_id": 39,
@@ -309,7 +309,7 @@
     "p_cost": 1.99,
     "p_cat": "groceries",
     "p_desc": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_39.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_39.jpg"
   },
   {
     "p_id": 40,
@@ -317,7 +317,7 @@
     "p_cost": 3.99,
     "p_cat": "groceries",
     "p_desc": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_40.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_40.jpg"
   },
   {
     "p_id": 41,
@@ -325,7 +325,7 @@
     "p_cost": 2.49,
     "p_cat": "groceries",
     "p_desc": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_41.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_41.jpg"
   },
   {
     "p_id": 42,
@@ -333,7 +333,7 @@
     "p_cost": 0.99,
     "p_cat": "groceries",
     "p_desc": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_42.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_42.jpg"
   },
   {
     "p_id": 43,
@@ -341,7 +341,7 @@
     "p_cost": 59.99,
     "p_cat": "home-decoration",
     "p_desc": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_43.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_43.jpg"
   },
   {
     "p_id": 44,
@@ -349,7 +349,7 @@
     "p_cost": 29.99,
     "p_cat": "home-decoration",
     "p_desc": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_44.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_44.jpg"
   },
   {
     "p_id": 45,
@@ -357,7 +357,7 @@
     "p_cost": 39.99,
     "p_cat": "home-decoration",
     "p_desc": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_45.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_45.jpg"
   },
   {
     "p_id": 46,
@@ -365,7 +365,7 @@
     "p_cost": 14.99,
     "p_cat": "home-decoration",
     "p_desc": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_46.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_46.jpg"
   },
   {
     "p_id": 47,
@@ -373,7 +373,7 @@
     "p_cost": 49.99,
     "p_cat": "home-decoration",
     "p_desc": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_47.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_47.jpg"
   },
   {
     "p_id": 48,
@@ -381,7 +381,7 @@
     "p_cost": 7.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_48.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_48.jpg"
   },
   {
     "p_id": 49,
@@ -389,7 +389,7 @@
     "p_cost": 5.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_49.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_49.jpg"
   },
   {
     "p_id": 50,
@@ -397,7 +397,7 @@
     "p_cost": 9.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_50.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_50.jpg"
   },
   {
     "p_id": 51,
@@ -405,7 +405,7 @@
     "p_cost": 39.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_51.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_51.jpg"
   },
   {
     "p_id": 52,
@@ -413,7 +413,7 @@
     "p_cost": 29.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_52.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_52.jpg"
   },
   {
     "p_id": 53,
@@ -421,7 +421,7 @@
     "p_cost": 12.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_53.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_53.jpg"
   },
   {
     "p_id": 54,
@@ -429,7 +429,7 @@
     "p_cost": 8.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_54.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_54.jpg"
   },
   {
     "p_id": 55,
@@ -437,7 +437,7 @@
     "p_cost": 6.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_55.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_55.jpg"
   },
   {
     "p_id": 56,
@@ -445,7 +445,7 @@
     "p_cost": 49.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_56.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_56.jpg"
   },
   {
     "p_id": 57,
@@ -453,7 +453,7 @@
     "p_cost": 9.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_57.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_57.jpg"
   },
   {
     "p_id": 58,
@@ -461,7 +461,7 @@
     "p_cost": 3.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Fork is a classic utensil for various dining and serving purposes. Its durable and ergonomic design makes it a reliable choice for everyday use.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_58.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_58.jpg"
   },
   {
     "p_id": 59,
@@ -469,7 +469,7 @@
     "p_cost": 4.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Glass is a versatile and elegant drinking vessel suitable for a variety of beverages. Its clear design allows you to enjoy the colors and textures of your drinks.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_59.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_59.jpg"
   },
   {
     "p_id": 60,
@@ -477,7 +477,7 @@
     "p_cost": 10.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Grater in Black is a handy kitchen tool for grating cheese, vegetables, and more. Its sleek design and sharp blades make food preparation efficient and easy.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_60.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_60.jpg"
   },
   {
     "p_id": 61,
@@ -485,7 +485,7 @@
     "p_cost": 34.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_61.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_61.jpg"
   },
   {
     "p_id": 62,
@@ -493,7 +493,7 @@
     "p_cost": 5.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_62.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_62.jpg"
   },
   {
     "p_id": 63,
@@ -501,7 +501,7 @@
     "p_cost": 7.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Kitchen Sieve is a versatile tool for sifting and straining dry and wet ingredients. Its fine mesh design ensures smooth results in your cooking and baking.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_63.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_63.jpg"
   },
   {
     "p_id": 64,
@@ -509,7 +509,7 @@
     "p_cost": 14.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Knife is an essential kitchen tool for chopping, slicing, and dicing. Its sharp blade and ergonomic handle make it a reliable choice for food preparation.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_64.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_64.jpg"
   },
   {
     "p_id": 65,
@@ -517,7 +517,7 @@
     "p_cost": 12.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_65.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_65.jpg"
   },
   {
     "p_id": 66,
@@ -525,7 +525,7 @@
     "p_cost": 89.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_66.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_66.jpg"
   },
   {
     "p_id": 67,
@@ -533,7 +533,7 @@
     "p_cost": 15.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_67.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_67.jpg"
   },
   {
     "p_id": 68,
@@ -541,7 +541,7 @@
     "p_cost": 24.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_68.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_68.jpg"
   },
   {
     "p_id": 69,
@@ -549,7 +549,7 @@
     "p_cost": 3.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_69.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_69.jpg"
   },
   {
     "p_id": 70,
@@ -557,7 +557,7 @@
     "p_cost": 6.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_70.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_70.jpg"
   },
   {
     "p_id": 71,
@@ -565,7 +565,7 @@
     "p_cost": 39.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_71.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_71.jpg"
   },
   {
     "p_id": 72,
@@ -573,7 +573,7 @@
     "p_cost": 8.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_72.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_72.jpg"
   },
   {
     "p_id": 73,
@@ -581,7 +581,7 @@
     "p_cost": 19.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_73.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_73.jpg"
   },
   {
     "p_id": 74,
@@ -589,7 +589,7 @@
     "p_cost": 4.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_74.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_74.jpg"
   },
   {
     "p_id": 75,
@@ -597,7 +597,7 @@
     "p_cost": 16.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_75.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_75.jpg"
   },
   {
     "p_id": 76,
@@ -605,7 +605,7 @@
     "p_cost": 11.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_76.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_76.jpg"
   },
   {
     "p_id": 77,
@@ -613,7 +613,7 @@
     "p_cost": 5.99,
     "p_cat": "kitchen-accessories",
     "p_desc": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_77.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_77.jpg"
   },
   {
     "p_id": 78,
@@ -621,7 +621,7 @@
     "p_cost": 1999.99,
     "p_cat": "laptops",
     "p_desc": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_78.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_78.jpg"
   },
   {
     "p_id": 79,
@@ -629,7 +629,7 @@
     "p_cost": 1799.99,
     "p_cat": "laptops",
     "p_desc": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_79.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_79.jpg"
   },
   {
     "p_id": 80,
@@ -637,7 +637,7 @@
     "p_cost": 1399.99,
     "p_cat": "laptops",
     "p_desc": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_80.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_80.jpg"
   },
   {
     "p_id": 81,
@@ -645,7 +645,7 @@
     "p_cost": 1099.99,
     "p_cat": "laptops",
     "p_desc": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_81.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_81.jpg"
   },
   {
     "p_id": 82,
@@ -653,7 +653,7 @@
     "p_cost": 1499.99,
     "p_cat": "laptops",
     "p_desc": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_82.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_82.jpg"
   },
   {
     "p_id": 83,
@@ -661,7 +661,7 @@
     "p_cost": 29.99,
     "p_cat": "mens-shirts",
     "p_desc": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_83.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_83.jpg"
   },
   {
     "p_id": 84,
@@ -669,7 +669,7 @@
     "p_cost": 24.99,
     "p_cat": "mens-shirts",
     "p_desc": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_84.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_84.jpg"
   },
   {
     "p_id": 85,
@@ -677,7 +677,7 @@
     "p_cost": 34.99,
     "p_cat": "mens-shirts",
     "p_desc": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_85.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_85.jpg"
   },
   {
     "p_id": 86,
@@ -685,7 +685,7 @@
     "p_cost": 19.99,
     "p_cat": "mens-shirts",
     "p_desc": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_86.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_86.jpg"
   },
   {
     "p_id": 87,
@@ -693,7 +693,7 @@
     "p_cost": 27.99,
     "p_cat": "mens-shirts",
     "p_desc": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_87.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_87.jpg"
   },
   {
     "p_id": 88,
@@ -701,7 +701,7 @@
     "p_cost": 149.99,
     "p_cat": "mens-shoes",
     "p_desc": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_88.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_88.jpg"
   },
   {
     "p_id": 89,
@@ -709,7 +709,7 @@
     "p_cost": 79.99,
     "p_cat": "mens-shoes",
     "p_desc": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_89.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_89.jpg"
   },
   {
     "p_id": 90,
@@ -717,7 +717,7 @@
     "p_cost": 89.99,
     "p_cat": "mens-shoes",
     "p_desc": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_90.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_90.jpg"
   },
   {
     "p_id": 91,
@@ -725,7 +725,7 @@
     "p_cost": 119.99,
     "p_cat": "mens-shoes",
     "p_desc": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_91.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_91.jpg"
   },
   {
     "p_id": 92,
@@ -733,7 +733,7 @@
     "p_cost": 109.99,
     "p_cat": "mens-shoes",
     "p_desc": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_92.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_92.jpg"
   },
   {
     "p_id": 93,
@@ -741,7 +741,7 @@
     "p_cost": 89.99,
     "p_cat": "mens-watches",
     "p_desc": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_93.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_93.jpg"
   },
   {
     "p_id": 94,
@@ -749,7 +749,7 @@
     "p_cost": 1499.99,
     "p_cat": "mens-watches",
     "p_desc": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_94.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_94.jpg"
   },
   {
     "p_id": 95,
@@ -757,7 +757,7 @@
     "p_cost": 8999.99,
     "p_cat": "mens-watches",
     "p_desc": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_95.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_95.jpg"
   },
   {
     "p_id": 96,
@@ -765,7 +765,7 @@
     "p_cost": 12999.99,
     "p_cat": "mens-watches",
     "p_desc": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_96.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_96.jpg"
   },
   {
     "p_id": 97,
@@ -773,7 +773,7 @@
     "p_cost": 10999.99,
     "p_cat": "mens-watches",
     "p_desc": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_97.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_97.jpg"
   },
   {
     "p_id": 98,
@@ -781,7 +781,7 @@
     "p_cost": 13999.99,
     "p_cat": "mens-watches",
     "p_desc": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_98.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_98.jpg"
   },
   {
     "p_id": 99,
@@ -789,7 +789,7 @@
     "p_cost": 99.99,
     "p_cat": "mobile-accessories",
     "p_desc": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_99.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_99.jpg"
   },
   {
     "p_id": 100,
@@ -797,6 +797,6 @@
     "p_cost": 129.99,
     "p_cat": "mobile-accessories",
     "p_desc": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
-    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_100.jpg"
+    "p_img": "https://github.com/Charantej07/Capstone-Product-Listings/blob/main/DataCollection/images/product_100.jpg"
   }
 ]
