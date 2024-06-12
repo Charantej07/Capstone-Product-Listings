@@ -13,6 +13,7 @@
     "axios": "^1.7.2",
     "express": "^4.19.2",
     "fs": "^0.0.1-security",
+    "mongoose": "^8.4.1",
     "sharp": "^0.33.4"
   }
 }

@@ -1,0 +1,122 @@
+[
+    {
+        "u_id": 16,
+        "u_name": "Avery Perez",
+        "u_email": "avery.perez@x.dummyjson.com",
+        "u_pwd": "averyppass",
+        "u_addr": "1125 First Street, Columbus, Iowa",
+        "u_contact": "+61 731-431-3457"
+    },
+    {
+        "u_id": 17,
+        "u_name": "Evelyn Sanchez",
+        "u_email": "evelyn.sanchez@x.dummyjson.com",
+        "u_pwd": "evelynspass",
+        "u_addr": "1170 Lincoln Street, San Diego, Wyoming",
+        "u_contact": "+1 623-880-6871"
+    },
+    {
+        "u_id": 18,
+        "u_name": "Logan Torres",
+        "u_email": "logan.torres@x.dummyjson.com",
+        "u_pwd": "logantpass",
+        "u_addr": "907 Seventh Street, Columbus, Arkansas",
+        "u_contact": "+81 507-434-8733"
+    },
+    {
+        "u_id": 19,
+        "u_name": "Abigail Rivera",
+        "u_email": "abigail.rivera@x.dummyjson.com",
+        "u_pwd": "abigailrpass",
+        "u_addr": "996 Oak Street, Chicago, New Mexico",
+        "u_contact": "+91 228-363-7806"
+    },
+    {
+        "u_id": 20,
+        "u_name": "Jackson Evans",
+        "u_email": "jackson.evans@x.dummyjson.com",
+        "u_pwd": "jacksonepass",
+        "u_addr": "1873 Main Street, New York, Arkansas",
+        "u_contact": "+44 468-628-6686"
+    },
+    {
+        "u_id": 21,
+        "u_name": "Madison Collins",
+        "u_email": "madison.collins@x.dummyjson.com",
+        "u_pwd": "madisoncpass",
+        "u_addr": "1892 Lincoln Street, Philadelphia, New Jersey",
+        "u_contact": "+81 259-957-5711"
+    },
+    {
+        "u_id": 22,
+        "u_name": "Elijah Stewart",
+        "u_email": "elijah.stewart@x.dummyjson.com",
+        "u_pwd": "elijahspass",
+        "u_addr": "1701 Eighth Street, Columbus, Illinois",
+        "u_contact": "+44 468-357-7872"
+    },
+    {
+        "u_id": 23,
+        "u_name": "Chloe Morales",
+        "u_email": "chloe.morales@x.dummyjson.com",
+        "u_pwd": "chloempass",
+        "u_addr": "401 Fourth Street, Dallas, New Jersey",
+        "u_contact": "+92 468-541-7133"
+    },
+    {
+        "u_id": 24,
+        "u_name": "Mateo Nguyen",
+        "u_email": "mateo.nguyen@x.dummyjson.com",
+        "u_pwd": "mateonpass",
+        "u_addr": "1578 Fourth Street, Columbus, Missouri",
+        "u_contact": "+1 341-597-6694"
+    },
+    {
+        "u_id": 25,
+        "u_name": "Harper Kelly",
+        "u_email": "harper.kelly@x.dummyjson.com",
+        "u_pwd": "harperepass",
+        "u_addr": "1591 Adams Street, Philadelphia, New York",
+        "u_contact": "+92 518-863-2863"
+    },
+    {
+        "u_id": 26,
+        "u_name": "Evelyn Gonzalez",
+        "u_email": "evelyn.gonzalez@x.dummyjson.com",
+        "u_pwd": "evelyngpass",
+        "u_addr": "1065 Lincoln Street, Dallas, Maine",
+        "u_contact": "+61 708-508-4638"
+    },
+    {
+        "u_id": 27,
+        "u_name": "Daniel Cook",
+        "u_email": "daniel.cook@x.dummyjson.com",
+        "u_pwd": "danielcpass",
+        "u_addr": "1163 Pine Street, Los Angeles, Nevada",
+        "u_contact": "+44 254-761-6843"
+    },
+    {
+        "u_id": 28,
+        "u_name": "Lily Lee",
+        "u_email": "lily.lee@x.dummyjson.com",
+        "u_pwd": "lilybpass",
+        "u_addr": "1946 Oak Street, Phoenix, Massachusetts",
+        "u_contact": "+1 808-757-9867"
+    },
+    {
+        "u_id": 29,
+        "u_name": "Henry Hill",
+        "u_email": "henry.hill@x.dummyjson.com",
+        "u_pwd": "henryhpass",
+        "u_addr": "1837 Maple Street, Indianapolis, Delaware",
+        "u_contact": "+1 240-833-4680"
+    },
+    {
+        "u_id": 30,
+        "u_name": "Addison Wright",
+        "u_email": "addison.wright@x.dummyjson.com",
+        "u_pwd": "addisonwpass",
+        "u_addr": "568 Tenth Street, San Francisco, Montana",
+        "u_contact": "+1 514-384-3300"
+    }
+]

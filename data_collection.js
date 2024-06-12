@@ -41,6 +41,9 @@ const gatherData = async () => {
     // Process products to match the specified JSON format
     const data = await Promise.all(
       products.map(async (product, index) => {
+        const imageUrl = `https://github.com/Charantej07/Capstone-Product-Listings/blob/main/images/product_${
+          index + 1
+        }.jpg`; // GitHub URL pattern
         const imageFilename = `product_${index + 1}.jpg`; // Use index to match p_id
         const resizedImagePath = await downloadAndResizeImage(
           product.thumbnail, // Using the thumbnail for consistency
@@ -54,7 +57,7 @@ const gatherData = async () => {
           p_cost: product.price,
           p_cat: product.category,
           p_desc: product.description,
-          p_img: resizedImagePath ? resizedImagePath : null,
+          p_img: imageUrl,
         };
       })
     );
