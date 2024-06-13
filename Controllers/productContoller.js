@@ -151,7 +151,50 @@ const createProduct = async (req, res) => {
   }
 };
 
+const updateProduct = async (req, res) => {
+  try {
+    const product = req.body;
+    const prevProduct = await Product.findOneAndUpdate(
+      { p_id: req.body.p_id },
+      product
+    );
+    if (!prevProduct) {
+      res.status(400).send("Product not found");
+    }
+    res.status(200).send("Product updated succesfully");
+  } catch (err) {
+    console.log(err);
+    res.status(500).send("Internal server error");
+  }
+};
 
+const showProduct = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const product = await Product.findOne({ p_id: id });
+    if (!product) {
+      res.status(400).send("Product not found");
+    }
+    res.status(200).send(product);
+  } catch (err) {
+    console.log(err);
+    res.status(500).send("Internal server error");
+  }
+};
+
+const deleteProduct = async (req, res) => {
+  try {
+    const { p_id } = req.body;
+    const product = await Product.findOneAndDelete({ p_id: p_id });
+    if (!product) {
+      res.status(400).send("No product to delete");
+    }
+    res.status(200).send("Product deleted succesfully");
+  } catch (err) {
+    console.log(err);
+    res.status(500).send("Internal server error");
+  }
+};
 
 module.exports = {
   createUser,
@@ -161,4 +204,7 @@ module.exports = {
   reduceFromCart,
   buyNow,
   createProduct,
+  updateProduct,
+  showProduct,
+  deleteProduct,
 };
