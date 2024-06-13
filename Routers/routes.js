@@ -11,5 +11,6 @@ Router.post("/insertUser", productController.createUser);
 Router.post("/insertProduct", productController.addToCart);
 Router.delete("/deleteProduct", productController.reduceFromCart);
 Router.post("/buyProduct", productController.buyNow);
+Router.post("/createProduct", productController.createProduct);
 
 module.exports = Router;

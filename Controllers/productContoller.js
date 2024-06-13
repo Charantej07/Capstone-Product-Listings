@@ -135,6 +135,24 @@ const buyNow = async (req, res) => {
   }
 };
 
+const createProduct = async (req, res) => {
+  try {
+    const product = req.body;
+    const existingProduct = await Product.findOne(product);
+    if (existingProduct) {
+      res.status(400).send("Product already existed");
+    }
+    const newProduct = Product.create(product);
+    (await newProduct).save();
+    res.status(200).send("Product added successfully");
+  } catch (err) {
+    console.log(err);
+    res.status(500).send("Internal server error");
+  }
+};
+
+
+
 module.exports = {
   createUser,
   login,
@@ -142,4 +160,5 @@ module.exports = {
   addToCart,
   reduceFromCart,
   buyNow,
+  createProduct,
 };
